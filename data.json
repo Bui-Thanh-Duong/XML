@@ -1,0 +1,37 @@
+{
+    "rooms": [
+        {
+            "roomID": 1,
+            "computers": [
+                {
+                    "computerID": 101,
+                    "screen": "Dell 24 inch",
+                    "CPU": "Intel i5",
+                    "RAM": "8GB",
+                    "storage": "512GB SSD",
+                    "status": "Bị lỗi"
+                }
+            ]
+        }
+    ],
+    "users": [
+        {
+            "username": "player1",
+            "password": "123456",
+            "balance": 116000
+        }
+    ],
+    "employees": [
+        {
+            "username": "employee1",
+            "password": "admin123",
+            "fullName": "Bùi Thành Dương",
+            "phone": "0799510031",
+            "address": "Cần Thơ"
+        }
+    ],
+    "admin": {
+        "username": "admin",
+        "password": "admin123"
+    }
+}
